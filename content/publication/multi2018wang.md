@@ -1,11 +1,8 @@
 +++
-title = "Multi-Image Semantic Matching by Mining Consistent Features"
-date = 2018-09-09T21:02:54-04:00
+title = ""
+date = 
 draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-
-
-authors = ["Qianqian Wang", "Xiaowei Zhou", "Kostas Daniilidis "]
 
 # Publication type.
 # Legend:
@@ -19,7 +16,7 @@ authors = ["Qianqian Wang", "Xiaowei Zhou", "Kostas Daniilidis "]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "CVPR"
+publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -44,9 +41,9 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1711.07641.pdf"
+url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/zjuvision/multiway"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
