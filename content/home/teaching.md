@@ -14,6 +14,4 @@ subtitle = ""
 weight = 60
 
 +++
-Spring 2019, CS 5670: Introduction to Computer Vision
-
-Fall 2018, CS 4700: Principles of Artificial Intelligence
+#Spring 2021, CS 4780: Intro to Machine Learning
