@@ -11,5 +11,5 @@ weight = 5
 +++
 # About
 
-I am a second-year Ph.D. student in Computer Science at Cornell University, advised by [Noah Snavely](http://www.cs.cornell.edu/~snavely/) and [Bharath Hariharan](http://home.bharathh.info/). I received my bachelor's degree from Zhejiang University. My research interests lie in the field of Computer Vision and Machine Learning. 
+I am a sophomore studying CS and physics at Cornell University. I am currently a member of the Birman Lab, McEuen Lab, and Cornell Data Science. My research interests lie in the field of AI, Computer Vision, Robotics, and Nanotechnology. 
 <!--For more information, please refer to my {{% staticref "files/cv_qw.pdf" "newtab" %}}Curriculum Vitae{{% /staticref %}}. -->
