@@ -14,4 +14,4 @@ subtitle = ""
 weight = 60
 
 +++
-#Spring 2021, CS 4780: Intro to Machine Learning
+
