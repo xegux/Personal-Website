@@ -107,7 +107,7 @@ enableGitInfo = false
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "July 18, 2021"
   #   Examples: "3:04 pm" or "15:04"
   time_format = "3:04 PM"
 
@@ -270,9 +270,14 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 3
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 3
+  weight = 4
   
 #[[menu.main]]
 #  name = "Posts"
